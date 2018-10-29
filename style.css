@@ -1,0 +1,15 @@
+h1, a {
+	color: blue;
+	font-family: 'Baloo Bhaijaan', cursive;
+	font-size: 100px;
+	text-align: center;
+
+}
+
+body {
+	background-color: rgb(51, 121, 49);
+}
+
+a {
+	color: red;
+}
